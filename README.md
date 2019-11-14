@@ -105,6 +105,12 @@ Pag. 745 <br>
 [Free book online](https://web.stanford.edu/~hastie/ElemStatLearn/) <br>
 <br>
 
+**Practical Statistics for Data Scientists: 50 Essential Concepts**<br>
+by Peter Bruce, Andrew Bruce<br>
+Pag. 318 <br>
+<br>
+
+
 ### Reinforcement Learning
 **Reinforcement Learning: An Introduction second Edition**<br>
 by Richard S. Sutton, Andrew G. Barto<br>
@@ -115,11 +121,6 @@ Pag. 552 <br>
 **Deep Reinforcement Learning Hands-On - Second Edition: Apply modern RL methods to practical problems of chatbots, robotics, discrete optimisation, web automation and more**<br>
 by Maxim Lapan<br>
 Pag. 777 <br>
-<br>
-
-**Practical Statistics for Data Scientists: 50 Essential Concepts**<br>
-by Peter Bruce, Andrew Bruce<br>
-Pag. 318 <br>
 <br>
 
 
