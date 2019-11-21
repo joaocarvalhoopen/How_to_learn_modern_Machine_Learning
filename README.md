@@ -197,6 +197,10 @@ Pag. 727 <br>
 * [Khan Academy](https://www.khanacademy.org)
 * [Land on Vector Spaces: Practical Linear Algebra with Python​](https://github.com/engineersCode/EngComp4_landlinear)
 * [Introduction to Numerical Computing with NumPy](https://github.com/enthought/Numpy-Tutorial-SciPyConf-2019/blob/master/slides.pdf)
+* [Tools - Math - Linear Algebra](https://github.com/ageron/handson-ml2/blob/master/math_linear_algebra.ipynb)
+* [Tools – NumPy](https://github.com/ageron/handson-ml2/blob/master/tools_numpy.ipynb)
+* [Tools – pandas](https://github.com/ageron/handson-ml2/blob/master/tools_pandas.ipynb)
+* [Tools – matplotlib](https://github.com/ageron/handson-ml2/blob/master/tools_matplotlib.ipynb)
 
 
 ## Youtube Channels
