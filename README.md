@@ -99,6 +99,12 @@ Note: It has a good introduction to Linear Algebra, Probability, Calculus and Op
 [Free book online](http://www.deeplearningbook.org) <br>
 <br>
 
+**Dive into Deep Learning**<br>
+by Aston Zhang, Zack Lipton, Mu Li, Alex Smola<br>
+Pag. 902 <br>
+[Free book online](https://d2l.ai/) <br>
+<br>
+
 **The Elements of Statistical Learning: Data Mining, Inference, and Prediction, second Edition**<br>
 by Trevor Hastie, Robert Tibshirani, Jerome Friedman<br>
 Pag. 745 <br>
@@ -139,6 +145,12 @@ Pag 544 <br>
 
 
 ### Mathematics
+**Summary - Mathematics for Machine Learning**<br>
+by Garrett Thomas<br>
+Pag. 47 <br>
+[Free book online](https://gwthomas.github.io/docs/math4ml.pdf) <br>
+<br>
+
 **Mathematics for Machine Learning**<br>
 by Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong<br>
 Pag. 398 <br>
