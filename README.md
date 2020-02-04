@@ -136,6 +136,12 @@ by Pedro Domingos<br>
 Pag. 352 <br>
 <br>
 
+### Biological inspired algorithms
+**Clever Algorithms: Nature-Inspired Programming Recipes**<br>
+By Jason Brownlee PhD<br>
+Pag. 438<br>
+[Free book online](http://cleveralgorithms.com/nature-inspired/index.html) <br>
+<br>
 
 ### Programming
 **Python Crash Course, 2nd Edition: A Hands-On, Project-Based Introduction to Programming**<br>
