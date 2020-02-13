@@ -116,6 +116,11 @@ by Peter Bruce, Andrew Bruce<br>
 Pag. 318 <br>
 <br>
 
+**Pattern Recognition and Machine Learning**<br>
+by Christopher M. Bishop<br>
+Pag. 738 <br>
+<br>
+
 
 ### Reinforcement Learning
 **Reinforcement Learning: An Introduction second Edition**<br>
