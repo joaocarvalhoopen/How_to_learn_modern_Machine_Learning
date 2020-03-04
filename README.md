@@ -41,6 +41,10 @@ by Eli Stevens, Luca Antiga<br>
 Pag. 450 <br>
 <br>
 
+**Data Science and Machine Learning: Mathematical and Statistical Methods**<br>
+by Dirk Kroese, Zdravko Botev, Thomas Taimre, Radislav Vaisman <br>
+Pag. 532 <br>
+<br>
 
 ### Good second line books
 **An Introduction to Statistical Learning: with Applications in R**<br>
@@ -119,6 +123,7 @@ Pag. 318 <br>
 **Pattern Recognition and Machine Learning**<br>
 by Christopher M. Bishop<br>
 Pag. 738 <br>
+[Free book online](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/) <br>
 <br>
 
 
