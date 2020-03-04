@@ -205,6 +205,11 @@ Pag. 640 <br>
 [Free book online](https://www.inference.org.uk/itprnn/book.html) <br>
 <br>
 
+**Algorithms for Optimization**<br> 
+by Mykel J. Kochenderfer, Tim A. Wheeler <br>
+Pag. 520 <br>
+<br>
+
 **Convex Optimization**<br> 
 by Stephen Boyd, Lieven Vandenberghe<br>
 Pag. 727 <br>
