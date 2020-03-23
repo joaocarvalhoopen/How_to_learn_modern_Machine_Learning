@@ -234,7 +234,7 @@ Pag. 727 <br>
 * [Tools – NumPy](https://github.com/ageron/handson-ml2/blob/master/tools_numpy.ipynb)
 * [Tools – pandas](https://github.com/ageron/handson-ml2/blob/master/tools_pandas.ipynb)
 * [Tools – matplotlib](https://github.com/ageron/handson-ml2/blob/master/tools_matplotlib.ipynb)
-* [Eloquent Arduino - Microcontrollers Machine Learning](https://eloquentarduino.github.io/category/programming/arduino-machine-learning/)
+* [Eloquent Arduino - Microcontrollers Machine Learning](https://eloquentarduino.github.io)
 * [GitHub MicroML - from Eloquent Arduino - SVMs](https://github.com/eloquentarduino/micromlgen)
 
 
